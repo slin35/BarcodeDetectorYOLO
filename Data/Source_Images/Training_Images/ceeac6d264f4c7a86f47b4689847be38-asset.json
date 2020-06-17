@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ceeac6d264f4c7a86f47b4689847be38",
+        "name": "4000196016447-01_N95-2592x1944_scaledTo800x600NN.jpg",
+        "path": "file:/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Training_Images/4000196016447-01_N95-2592x1944_scaledTo800x600NN.jpg",
+        "size": {
+            "width": 800,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TLE3-KrpG",
+            "type": "RECTANGLE",
+            "tags": [
+                "barcode"
+            ],
+            "boundingBox": {
+                "height": 206.4240887207703,
+                "width": 367.62770897832814,
+                "left": 202.9250515995872,
+                "top": 171.32264442916093
+            },
+            "points": [
+                {
+                    "x": 202.9250515995872,
+                    "y": 171.32264442916093
+                },
+                {
+                    "x": 570.5527605779154,
+                    "y": 171.32264442916093
+                },
+                {
+                    "x": 570.5527605779154,
+                    "y": 377.74673314993123
+                },
+                {
+                    "x": 202.9250515995872,
+                    "y": 377.74673314993123
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,13 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+3222270189644-01_N95-2592x1944_scaledTo800x600bilinear.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3222270189644-01_N95-2592x1944_scaledTo800x600bilinear.jpg,0,16,178,249,0,0.35302120447158813,800,600
+3222270189644-01_N95-2592x1944_scaledTo800x600bilinear.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3222270189644-01_N95-2592x1944_scaledTo800x600bilinear.jpg,23,8,109,250,0,0.4928506314754486,800,600
+3261080112428-01_N95-2592x1944_scaledTo800x600bilinear.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3261080112428-01_N95-2592x1944_scaledTo800x600bilinear.jpg,42,0,800,600,0,0.2534894049167633,800,600
+test4.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/test4.jpg,9,0,600,450,0,0.34230008721351624,600,450
+test1.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/test1.jpg,9,0,600,450,0,0.34177350997924805,600,450
+3394150018020-01_N95-2592x1944_scaledTo800x600bilinear.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3394150018020-01_N95-2592x1944_scaledTo800x600bilinear.jpg,140,0,786,600,0,0.6770889163017273,800,600
+3574660237870-01_N95-2592x1944_scaledTo800x600bilinear.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3574660237870-01_N95-2592x1944_scaledTo800x600bilinear.jpg,0,0,800,504,0,0.7778985500335693,800,600
+3276230002498-01_N95-2592x1944_scaledTo800x600bilinear.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3276230002498-01_N95-2592x1944_scaledTo800x600bilinear.jpg,0,0,800,600,0,0.31473061442375183,800,600
+3574660026948-01_N95-2592x1944_scaledTo800x600bilinear.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3574660026948-01_N95-2592x1944_scaledTo800x600bilinear.jpg,56,0,733,539,0,0.6407032012939453,800,600
+3165950077018-01_N95-2592x1944_scaledTo800x600bilinear.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3165950077018-01_N95-2592x1944_scaledTo800x600bilinear.jpg,209,0,800,544,0,0.6595402359962463,800,600
+3574660036671-01_N95-2592x1944_scaledTo800x600bilinear.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3574660036671-01_N95-2592x1944_scaledTo800x600bilinear.jpg,0,0,800,600,0,0.5662426948547363,800,600
+3181731138013-01_N95-2592x1944_scaledTo800x600bilinear.jpg,/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3181731138013-01_N95-2592x1944_scaledTo800x600bilinear.jpg,44,0,800,600,0,0.30317065119743347,800,600

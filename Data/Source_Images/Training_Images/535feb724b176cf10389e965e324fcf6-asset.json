@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "535feb724b176cf10389e965e324fcf6",
+        "name": "2007001491347-01_N95-2592x1944_scaledTo800x600NN.jpg",
+        "path": "file:/Users/sherry/Desktop/TrainYourOwnYOLO/Data/Source_Images/Training_Images/2007001491347-01_N95-2592x1944_scaledTo800x600NN.jpg",
+        "size": {
+            "width": 800,
+            "height": 600
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "iR1dJp17f",
+            "type": "RECTANGLE",
+            "tags": [
+                "barcode"
+            ],
+            "boundingBox": {
+                "height": 188.00614683631363,
+                "width": 242.80185758513932,
+                "left": 282.53353973168214,
+                "top": 190.0565251031637
+            },
+            "points": [
+                {
+                    "x": 282.53353973168214,
+                    "y": 190.0565251031637
+                },
+                {
+                    "x": 525.3353973168214,
+                    "y": 190.0565251031637
+                },
+                {
+                    "x": 525.3353973168214,
+                    "y": 378.0626719394773
+                },
+                {
+                    "x": 282.53353973168214,
+                    "y": 378.0626719394773
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
